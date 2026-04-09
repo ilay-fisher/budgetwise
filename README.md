@@ -28,8 +28,7 @@ Track your income and expenses, set monthly budgets, import bank statements, and
 
 # Start DB
 cd infra
-docker compose up -d<img width="289" height="527" alt="Screenshot 2026-04-09 162815" src="https://github.com/user-attachments/assets/0228cb51-143f-4d4d-9753-418457a99f8f" />
-
+docker compose up -d
 
 # Run API
 cd api/budgetwise-js-api
