@@ -39,3 +39,19 @@ node src/index.js
 cd budgetwise-web
 npm install
 npm run dev
+```
+
+<img width="1713" height="662" alt="Screenshot 2026-04-09 162359" src="https://github.com/user-attachments/assets/55c96a50-2935-4dbd-b892-6fea0756b211" />
+
+<img width="1542" height="693" alt="Screenshot 2026-04-09 162556" src="https://github.com/user-attachments/assets/f2133285-1172-4111-993a-48ad92609d10" />
+<img width="1435" height="146" alt="Screenshot 2026-04-09 162751" src="https://github.com/user-attachments/assets/7505aa82-ad32-4f03-b08a-106fb1a97733" />
+<img width="1486" height="567" alt="Screenshot 2026-04-09 163929" src="https://github.com/user-attachments/assets/7d2c0e68-2a32-4f9d-af55-744bdf7794c8" />
+
+<img width="1333" height="509" alt="Screenshot 2026-04-09 162729" src="https://github.com/user-attachments/assets/47f8e8e1-d102-4d2b-bece-2184ca46af71" />
+
+<img width="1412" height="273" alt="Screenshot 2026-04-09 162439" src="https://github.com/user-attachments/assets/1351327f-4339-4f7c-9a4f-ce89647e295c" />
+<img width="1536" height="617" alt="Screenshot 2026-04-09 162421" src="https://github.com/user-attachments/assets/d3f87d80-9784-4d5d-bf38-6e1127d30f59" />
+
+
+
+
