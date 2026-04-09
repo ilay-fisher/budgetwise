@@ -25,7 +25,7 @@ Track your income and expenses, set monthly budgets, import bank statements, and
 
 ## Run locally
 
-
+```bash
 # Start DB
 cd infra
 docker compose up -d
